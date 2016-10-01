@@ -2,13 +2,17 @@
 # This file is distributed under the same license as the Stable (latest release) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2016-03-30 22:08:20+0000\n"
+"PO-Revision-Date: 2016-10-01 14:17+0700\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: GlotPress/2.1.0-alpha\n"
+"X-Generator: Poedit 1.8.9\n"
 "Project-Id-Version: Stable (latest release)\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: id_ID\n"
 
 #: common/src/Tribe/Support.php:159
 #: vendor/tickets/common/src/Tribe/Support.php:159
@@ -116,7 +120,7 @@ msgstr ""
 
 #: src/Tribe/Organizer.php:161
 msgid "organizer"
-msgstr ""
+msgstr "penyelenggara"
 
 #: common/src/Tribe/Log/Admin.php:132
 #: vendor/tickets/common/src/Tribe/Log/Admin.php:132
@@ -981,11 +985,11 @@ msgstr ""
 
 #: src/Tribe/Linked_Posts/Chooser_Meta_Box.php:151
 msgid "Create New %s"
-msgstr ""
+msgstr "Buat %s Baru"
 
 #: src/Tribe/Linked_Posts/Chooser_Meta_Box.php:221
 msgid "Add another %s"
-msgstr ""
+msgstr "Tambahkan %s lain"
 
 #: src/Tribe/Asset/Bootstrap_Datepicker.php:19
 msgid "Clear"
@@ -1272,11 +1276,11 @@ msgstr "Pengaturan Miscellaneous"
 
 #: src/admin-views/tribe-options-general.php:143
 msgid "Duplicate Venues &amp; Organizers"
-msgstr "Duplikat Venues &amp; Penyelenggara"
+msgstr "Duplikat Tempat &amp; Penyelenggara"
 
 #: src/admin-views/tribe-options-general.php:143
 msgid "You might find duplicate venues and organizers when updating The Events Calendar from a pre-3.0 version. Click this button to automatically merge identical venues and organizers."
-msgstr "Anda mungkin menemukan duplikat venue dan penyelenggara ketika memperbarui The Events Calendar dari versi pre-3.0. Klik tombol ini untuk secara otomatis menggabungkan venue identik dan penyelenggara."
+msgstr "Anda mungkin menemukan duplikat tempat dan penyelenggara ketika memperbarui Kalender Acara dari versi pre-3.0. Klik tombol ini untuk secara otomatis menggabungkan venue identik dan penyelenggara."
 
 #: src/admin-views/tribe-options-general.php:159
 msgid "View Welcome Page"
@@ -2521,7 +2525,7 @@ msgstr "Tribe Event Add-Ons"
 
 #: src/admin-views/event-sidebar-options.php:13
 msgid "Hide From %s Listings"
-msgstr ""
+msgstr "Sembunyikan Dari Daftar %s"
 
 #: src/admin-views/event-sidebar-options.php:15
 msgid "Sticky in Month View"
@@ -2541,7 +2545,7 @@ msgstr ""
 
 #: src/admin-views/events-meta-box.php:72
 msgid "All Day %s:"
-msgstr ""
+msgstr "%s Setiap Hari"
 
 #: src/admin-views/events-meta-box.php:78
 msgid "Start Date &amp; Time:"
@@ -2562,7 +2566,7 @@ msgstr ""
 
 #: src/admin-views/events-meta-box.php:152
 msgid "%s Website"
-msgstr ""
+msgstr "Website %s"
 
 #: src/admin-views/events-meta-box.php:155
 msgid "URL:"
@@ -2570,7 +2574,7 @@ msgstr "URL:"
 
 #: src/admin-views/events-meta-box.php:186
 msgid "%s Cost"
-msgstr ""
+msgstr "Biaya %s"
 
 #: src/admin-views/events-meta-box.php:189
 msgid "Currency Symbol:"
@@ -2600,7 +2604,7 @@ msgstr ""
 #: src/admin-views/organizer-meta-box.php:24
 #: src/admin-views/venue-meta-box.php:25
 msgid "%s Name:"
-msgstr "%s Nama:"
+msgstr "Nama %s:"
 
 #: src/Tribe/Event_Tickets/Attendees_Report.php:76
 #: src/admin-views/create-organizer-fields.php:2
@@ -3082,7 +3086,7 @@ msgstr "Lihat Kalender"
 
 #: src/Tribe/Admin/Bar/Default_Configurator.php:53
 msgid "Add %s"
-msgstr ""
+msgstr "Tambahkan %s"
 
 #: src/Tribe/Admin/Bar/Default_Configurator.php:79
 #: src/Tribe/Importer/Admin_Page.php:230
@@ -3193,7 +3197,7 @@ msgstr "Anda telah meminta tab yang tidak ada."
 #: common/src/Tribe/Settings.php:323
 #: vendor/tickets/common/src/Tribe/Settings.php:323
 msgid "Save Changes"
-msgstr ""
+msgstr "Simpan Perubahan"
 
 #: common/src/Tribe/Settings.php:371
 #: vendor/tickets/common/src/Tribe/Settings.php:371
@@ -4479,7 +4483,7 @@ msgstr ""
 
 #: src/Tribe/Admin_List.php:246 src/Tribe/Main.php:1492
 msgid "%s Categories"
-msgstr ""
+msgstr "Kategori %s"
 
 #: src/Tribe/Admin_List.php:252
 msgid "Start Date"
@@ -4750,7 +4754,7 @@ msgstr "Tempat"
 #: src/functions/advanced-functions/meta_registration.php:126
 #: src/functions/template-tags/venue.php:41
 msgid "Venue"
-msgstr "Venue"
+msgstr "Tempat"
 
 #: src/Tribe/Importer/Admin_Page.php:197 src/Tribe/Organizer.php:148
 #: src/functions/template-tags/organizer.php:86
@@ -4774,16 +4778,15 @@ msgstr "Event"
 
 #: src/Tribe/Main.php:710 src/functions/template-tags/general.php:58
 msgid "Event"
-msgstr "Event"
+msgstr "Acara"
 
-#. #-#-#-#-#  tmp-the-events-calendar.pot (The Events Calendar 4.2.6) 
-#. #-#-#-#-#
+#. #-#-#-#-#  tmp-the-events-calendar.pot (The Events Calendar 4.2.6)
 #. Plugin Name of the plugin/theme
 #: common/src/Tribe/Admin/Help_Page.php:48 src/Tribe/Main.php:628
 #: src/Tribe/Main.php:778
 #: vendor/tickets/common/src/Tribe/Admin/Help_Page.php:48
 msgid "The Events Calendar"
-msgstr "The Events Calendar"
+msgstr "Kalender Acara"
 
 #: src/Tribe/Main.php:785
 msgid "month"
@@ -4864,7 +4867,7 @@ msgstr "Tambahkan Baru"
 #: src/Tribe/Main.php:1477 src/Tribe/Main.php:1608 src/Tribe/Main.php:1609
 #: src/Tribe/Organizer.php:70 src/Tribe/Venue.php:76
 msgid "Add New %s"
-msgstr "Add New %s"
+msgstr "Tambahkan %s Baru"
 
 #: src/Tribe/Main.php:1479 src/Tribe/Organizer.php:72 src/Tribe/Venue.php:78
 msgid "New %s"
@@ -4897,7 +4900,7 @@ msgstr ""
 
 #: src/Tribe/Main.php:1495
 msgid "All %s Categories"
-msgstr ""
+msgstr "Semua Kategori %s"
 
 #: src/Tribe/Main.php:1496
 msgid "Parent %s Category"
@@ -4917,7 +4920,7 @@ msgstr ""
 
 #: src/Tribe/Main.php:1500
 msgid "Add New %s Category"
-msgstr ""
+msgstr "Tambahkan Kategori Acara Baru"
 
 #: src/Tribe/Main.php:1501
 msgid "New %s Category Name"
@@ -5011,7 +5014,7 @@ msgstr ""
 
 #: src/Tribe/Main.php:2277 src/functions/template-tags/general.php:69
 msgid "event"
-msgstr ""
+msgstr "acara"
 
 #: src/Tribe/Main.php:2278 src/functions/template-tags/general.php:91
 msgid "events"
@@ -5029,7 +5032,7 @@ msgstr "Tanggal di luar jangkauan."
 
 #: src/Tribe/Main.php:3488
 msgid "%s Options"
-msgstr ""
+msgstr "Pengaturan %s"
 
 #: src/Tribe/Main.php:3495 src/Tribe/Main.php:3506
 msgid "%s Information"
