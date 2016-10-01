@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Stable (latest release) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2016-10-01 14:17+0700\n"
+"PO-Revision-Date: 2016-10-01 15:56+0700\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1153,7 +1153,7 @@ msgstr ""
 #: vendor/tickets/common/src/Tribe/Admin/Help_Page.php:64
 #: vendor/tickets/src/Tribe/Main.php:371
 msgid "Event Tickets"
-msgstr ""
+msgstr "Tiket Kegiatan"
 
 #: common/src/Tribe/Admin/Help_Page.php:68
 #: vendor/tickets/common/src/Tribe/Admin/Help_Page.php:68
@@ -1489,7 +1489,7 @@ msgstr "Detil"
 
 #: src/functions/advanced-functions/meta_registration.php:80
 msgid "Event Tags:"
-msgstr "Tag Event:"
+msgstr "Tag Kegiatan:"
 
 #: src/functions/advanced-functions/meta_registration.php:112
 msgid "Origin:"
@@ -1722,7 +1722,7 @@ msgstr ""
 
 #: src/views/modules/bar.php:37
 msgid "Event Views Navigation"
-msgstr "Navigasi Tampilan Event"
+msgstr "Navigasi Tampilan Kegiatan"
 
 #: src/views/modules/bar.php:38
 msgid "View As"
@@ -2644,7 +2644,7 @@ msgstr ""
 
 #: vendor/tickets/src/admin-views/attendees.php:33
 msgid "Event Details"
-msgstr "Detil event"
+msgstr "Detil Kegiatan"
 
 #: src/Tribe/Event_Tickets/Attendees_Report.php:49
 msgid "Start Date / Time:"
@@ -2830,7 +2830,7 @@ msgstr "Tema yang sudah sepenuhnya dirancang dan ditata untuk halaman event Anda
 
 #: src/admin-views/tribe-options-display.php:152
 msgid "Events template"
-msgstr "Template Event"
+msgstr "Template Kegiatan"
 
 #: src/admin-views/tribe-options-display.php:153
 msgid "Choose a page template to control the appearance of your calendar and event content."
@@ -3182,7 +3182,7 @@ msgstr ""
 #: vendor/tickets/common/src/Tribe/Settings.php:216
 #: vendor/tickets/common/src/Tribe/Settings.php:236
 msgid "Events Settings"
-msgstr "Pengaturan Event"
+msgstr "Pengaturan Kegiatan"
 
 #: common/src/Tribe/Settings.php:301
 #: vendor/tickets/common/src/Tribe/Settings.php:301
@@ -4586,11 +4586,11 @@ msgstr "Jangan Impor"
 
 #: src/Tribe/Importer/Column_Mapper.php:62
 msgid "Event Name"
-msgstr "Nama Event"
+msgstr "Nama Kegiatan"
 
 #: src/Tribe/Importer/Column_Mapper.php:63
 msgid "Event Description"
-msgstr "Deskripsi Event"
+msgstr "Deskripsi Kegiatan"
 
 #: src/Tribe/Importer/Column_Mapper.php:65
 msgid "Event Start Date"
@@ -4602,11 +4602,11 @@ msgstr "Waktu Mulai Event"
 
 #: src/Tribe/Importer/Column_Mapper.php:67
 msgid "Event End Date"
-msgstr "Tanggal Event Berakhir"
+msgstr "Tanggal KegiatanBerakhir"
 
 #: src/Tribe/Importer/Column_Mapper.php:68
 msgid "Event End Time"
-msgstr "Akhir Waktu Event"
+msgstr "Akhir Waktu Kegiatan"
 
 #: src/Tribe/Importer/Column_Mapper.php:70
 msgid "All Day Event"
@@ -4614,7 +4614,7 @@ msgstr "Event Sepanjang Hari"
 
 #: src/Tribe/Importer/Column_Mapper.php:73
 msgid "Event Venue Name"
-msgstr "Nama Tempat Event "
+msgstr "Nama Tempat Kegiatan"
 
 #: src/Tribe/Importer/Column_Mapper.php:75
 msgid "Event Show Map Link"
@@ -4626,7 +4626,7 @@ msgstr "Tampilkan Peta Event"
 
 #: src/Tribe/Importer/Column_Mapper.php:77
 msgid "Event Cost"
-msgstr "Biaya Event"
+msgstr "Biaya Kegiatan"
 
 #: src/Tribe/Importer/Column_Mapper.php:78
 msgid "Event Currency Symbol"
@@ -4638,7 +4638,7 @@ msgstr ""
 
 #: src/Tribe/Importer/Column_Mapper.php:80
 msgid "Event Category"
-msgstr "Kategori Event"
+msgstr "Kategori Kegiatan"
 
 #: src/Tribe/Importer/Column_Mapper.php:81
 msgid "Event Tags"
@@ -4646,7 +4646,7 @@ msgstr ""
 
 #: src/Tribe/Importer/Column_Mapper.php:82
 msgid "Event Website"
-msgstr "Situs Web Event"
+msgstr "Situs Web Kegiatan"
 
 #: src/Tribe/Importer/Column_Mapper.php:98
 msgid "Venue Name"
@@ -4739,7 +4739,7 @@ msgstr "Sebuah widget yang menampilkan event mendatang."
 
 #: src/Tribe/List_Widget.php:38
 msgid "Events List"
-msgstr "Daftar Event"
+msgstr "Daftar Kegiatan"
 
 #: src/Tribe/List_Widget.php:186
 msgid "Upcoming Events"
@@ -4774,11 +4774,11 @@ msgstr "Penyelenggara"
 #: vendor/tickets/common/src/Tribe/Settings.php:204
 #: vendor/tickets/common/src/Tribe/Settings.php:205
 msgid "Events"
-msgstr "Event"
+msgstr "Kegiatan"
 
 #: src/Tribe/Main.php:710 src/functions/template-tags/general.php:58
 msgid "Event"
-msgstr "Acara"
+msgstr "Kegiatan"
 
 #. #-#-#-#-#  tmp-the-events-calendar.pot (The Events Calendar 4.2.6)
 #. Plugin Name of the plugin/theme
@@ -4786,7 +4786,7 @@ msgstr "Acara"
 #: src/Tribe/Main.php:778
 #: vendor/tickets/common/src/Tribe/Admin/Help_Page.php:48
 msgid "The Events Calendar"
-msgstr "Kalender Acara"
+msgstr "Kalender Kegiatan"
 
 #: src/Tribe/Main.php:785
 msgid "month"
@@ -4896,7 +4896,7 @@ msgstr ""
 
 #: src/Tribe/Main.php:1494
 msgid "Search %s Categories"
-msgstr ""
+msgstr "Cari Kategori %s"
 
 #: src/Tribe/Main.php:1495
 msgid "All %s Categories"
@@ -4920,7 +4920,7 @@ msgstr ""
 
 #: src/Tribe/Main.php:1500
 msgid "Add New %s Category"
-msgstr "Tambahkan Kategori Acara Baru"
+msgstr "Tambahkan Kategori %s Baru"
 
 #: src/Tribe/Main.php:1501
 msgid "New %s Category Name"
@@ -5014,11 +5014,11 @@ msgstr ""
 
 #: src/Tribe/Main.php:2277 src/functions/template-tags/general.php:69
 msgid "event"
-msgstr "acara"
+msgstr "kegiatan"
 
 #: src/Tribe/Main.php:2278 src/functions/template-tags/general.php:91
 msgid "events"
-msgstr ""
+msgstr "kegiatan"
 
 #: src/Tribe/Main.php:2279
 msgid "all"
