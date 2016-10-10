@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Stable (latest release) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2016-10-01 15:56+0700\n"
+"PO-Revision-Date: 2016-10-10 15:12+0700\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1272,7 +1272,7 @@ msgstr "0 = zoomed out; 21 = zoomed in."
 
 #: src/admin-views/tribe-options-general.php:148
 msgid "Miscellaneous Settings"
-msgstr "Pengaturan Miscellaneous"
+msgstr "Pengaturan Lainnya"
 
 #: src/admin-views/tribe-options-general.php:143
 msgid "Duplicate Venues &amp; Organizers"
@@ -1553,7 +1553,7 @@ msgstr "+ Google Map"
 
 #: src/functions/template-tags/loop.php:131
 msgid "Upcoming %s"
-msgstr ""
+msgstr "%s Mendatang"
 
 #: src/functions/template-tags/loop.php:145
 msgid "%1$s for %2$s - %3$s"
@@ -1622,7 +1622,7 @@ msgstr ""
 
 #: src/io/csv/admin-views/header.php:17
 msgid "Events Import"
-msgstr ""
+msgstr "Impor Kegiatan"
 
 #: src/io/csv/admin-views/import.php:17
 msgid "Import Instructions"
@@ -1759,7 +1759,7 @@ msgstr "Pembeli"
 
 #: src/views/widgets/list-widget.php:67
 msgid "View All %s"
-msgstr ""
+msgstr "Tampilkan Semua %s"
 
 #: src/views/widgets/list-widget.php:73
 msgid "There are no upcoming %s at this time."
@@ -2529,7 +2529,7 @@ msgstr "Sembunyikan Dari Daftar %s"
 
 #: src/admin-views/event-sidebar-options.php:15
 msgid "Sticky in Month View"
-msgstr ""
+msgstr "Tempelkan di Tampilan Bulan"
 
 #: src/admin-views/event-sidebar-options.php:16
 msgid "When events are sticky in month view, they'll display first in the list of events shown within a given day block."
@@ -2562,7 +2562,7 @@ msgstr "Tanggal Akhir &amp; Waktu:"
 
 #: src/admin-views/events-meta-box.php:123
 msgid "Timezone:"
-msgstr ""
+msgstr "Zona Waktu:"
 
 #: src/admin-views/events-meta-box.php:152
 msgid "%s Website"
@@ -2598,7 +2598,7 @@ msgstr "Biaya:"
 
 #: src/admin-views/events-meta-box.php:220
 msgid "Enter a 0 for %s that are free or leave blank to hide the field."
-msgstr ""
+msgstr "Masukkan 0 untuk %s gratis atau Biarkan kosong untuk menyembunyikan kolom."
 
 #: src/admin-views/linked-post-meta-box.php:18
 #: src/admin-views/organizer-meta-box.php:24
@@ -3007,7 +3007,7 @@ msgstr "Pengaturan Umum"
 
 #: src/admin-views/tribe-options-general.php:37
 msgid "Number of events to show per page"
-msgstr "Jumlah event yang ditampilkan per halaman"
+msgstr "Jumlah kegiatan yang ditampilkan per halaman"
 
 #: src/admin-views/tribe-options-general.php:44
 msgid "Use Javascript to control date filtering"
@@ -3031,16 +3031,16 @@ msgstr "Aktifkan komentar pada halaman event."
 
 #: src/admin-views/tribe-options-general.php:60
 msgid "Include events in main blog loop"
-msgstr "Sertakan event di blog loop utama"
+msgstr "Sertakan kegiatan di blog loop utama"
 
 #: src/admin-views/tribe-options-general.php:61
 msgid "Show events with the site's other posts. When this box is checked, events will also continue to appear on the default events page."
-msgstr "Tampilkan event dengan posting lain di situs. Bila kotak ini dicentang, event juga akan terus muncul pada halaman default event."
+msgstr "Tampilkan kegiatan dengan posting lain di situs. Bila kotak ini dicentang, event juga akan terus muncul pada halaman default event."
 
 #: src/admin-views/tribe-options-general.php:67
 #: src/admin-views/tribe-options-general.php:73
 msgid "Events URL slug"
-msgstr "URL slug event"
+msgstr "URL slug kegiatan"
 
 #: src/admin-views/tribe-options-general.php:68
 msgid "You cannot edit the slug for your events page as you do not have pretty permalinks enabled. The current URL for your events page is <a href=\"%1$s\">%2$s</a>. In order to edit the slug here, <a href=\"%3$soptions-permalink.php\">enable pretty permalinks</a>."
@@ -3062,11 +3062,11 @@ msgstr "Berikut adalah URL feed iCal untuk event Anda:"
 
 #: src/admin-views/tribe-options-general.php:90
 msgid "Single event URL slug"
-msgstr "Slug URL event tunggal"
+msgstr "Slug URL kegiatan tunggal"
 
 #: src/admin-views/tribe-options-general.php:97
 msgid "The above should ideally be plural, and this singular.<br />Your single event URL is: %s"
-msgstr "Di atas idealnya harus plural, dan ini tunggal <br />URL event tunggal Anda adalah:. %s"
+msgstr "Di atas idealnya harus plural, dan ini tunggal <br />URL kegiatan tunggal Anda adalah:. %s"
 
 #: src/admin-views/tribe-options-general.php:102
 msgid "End of day cutoff"
@@ -3074,7 +3074,7 @@ msgstr "Cutoff akhir hari"
 
 #: src/admin-views/tribe-options-general.php:123
 msgid "Have an event that runs past midnight? Select a time after that event's end to avoid showing the event on the next day's calendar."
-msgstr "Memiliki event yang berjalan lewat tengah malam? Pilih waktu setelah akhir acara untuk menghindari menampilkan acara pada kalender hari berikutnya."
+msgstr "Memiliki kegiatan yang berjalan lewat tengah malam? Pilih waktu setelah akhir acara untuk menghindari menampilkan acara pada kalender hari berikutnya."
 
 #: src/Tribe/Admin/Bar/Default_Configurator.php:18
 msgid "%s"
@@ -4743,7 +4743,7 @@ msgstr "Daftar Kegiatan"
 
 #: src/Tribe/List_Widget.php:186
 msgid "Upcoming Events"
-msgstr "Event Mendatang"
+msgstr "Kegiatan Mendatang"
 
 #: src/Tribe/Importer/Admin_Page.php:196 src/Tribe/Venue.php:142
 #: src/functions/template-tags/venue.php:52
